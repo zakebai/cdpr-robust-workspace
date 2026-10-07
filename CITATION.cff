@@ -5,11 +5,11 @@ version: 1.0.0
 date-released: 2026-10-07
 license: MIT
 authors:
-  - family-names: "[Surname]"
-    given-names: "Myrza"
+  - family-names: "Azil"
+    given-names: "Zamanbek"
     affiliation: "Al-Farabi Kazakh National University"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+    orcid: "https://orcid.org/0009-0008-5120-4130"
   - family-names: "Kaimov"
     given-names: "Suleimen"
     affiliation: "Al-Farabi Kazakh National University"
-repository-code: "https://github.com/[user]/cdpr-robust-workspace"
+repository-code: "https://github.com/zakebai/cdpr-robust-workspace.git"
